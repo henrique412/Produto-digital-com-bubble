@@ -49,10 +49,12 @@ Você pode cadastrar uma nova conta diretamente na tela inicial ou utilizar o us
 *(Substitua os links dos marcadores abaixo pelos prints reais do seu aplicativo)*
 
 ### Tela Inicial e Autenticação
-![Tela de Autenticação/Dashboard](https://via.placeholder.com/800x400?text=Preview+do+Dashboard+e+Login)
+![Tela de Autenticação/Dashboard]<img width="1920" height="1080" alt="Desktop Screenshot 2026 08 29 - 11 08 24 33" src="https://github.com/user-attachments/assets/e33a0b14-e9e8-49cf-ade2-054fff6bfdea" />
+
 
 ### Modal de Criação de Tarefa
-![Modal de Nova Tarefa](https://via.placeholder.com/800x400?text=Popup+de+Criacao+de+Tarefa)
+![Modal de Nova Tarefa]<img width="1920" height="1080" alt="Desktop Screenshot 2026 08 29 - 11 08 29 48" src="https://github.com/user-attachments/assets/0a3886c3-308c-4e84-97f0-aa385fa4a091" />
+
 
 ---
 
